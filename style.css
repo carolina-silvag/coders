@@ -1,0 +1,48 @@
+.contenedor{
+	overflow: hidden;
+	width: 40em;
+	height: 15em;
+	position: relative;
+}
+.raya{
+	border: 1px solid black;
+	width: 3em;
+}
+.imagen{
+	border: 1px solid black;
+	overflow: hidden;
+	float: left;
+	width: 12em;
+	height: 12em;
+	margin: 0.6em;
+}
+h4{
+	display: inline-block;
+	overflow: hidden;
+	position: absolute;
+	color: yellow;
+}
+.antartida h4{
+	left: 5em;
+	top: 10em;
+}
+.desierto h4{
+	left: 14.5em;
+	top: 10em;
+}
+.sur h4{
+	left: 30em;
+	top: 10em;
+}
+.egipto h4{
+	left: 5em;
+	top: 10em;
+}
+.japon h4{
+	left: 18em;
+	top: 10em;
+}
+.alemania h4{
+	left: 30em;
+	top: 10em;
+}
